@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Karthikeya
 
-<!--
-**karthikeya30318/karthikeya30318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | AI Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I build full-stack applications and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- React.js
+- Python
+- FastAPI
+- MySQL
+- PostgreSQL
+- MongoDB
+- AWS
+- Git & GitHub
+- Langchain
+- Huggingface
+- DL
+- NLP
+- AI
+
+---
+
+## 🚀 Projects
+
+- Real-Time Chat Application
+- AI Assistant
+- Stock Portfolio Tracker
+- Melanoma Detection
+- FindEase
+- Weather Forecasting
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn - https://www.linkedin.com/in/karthikeyabanala/
+- Portfolio
+- Email - karthikeyabanala9@gmail.com
