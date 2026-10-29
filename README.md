@@ -40,5 +40,5 @@ I build full-stack applications and AI-powered solutions.
 ## 📫 Connect With Me
 
 - LinkedIn - https://www.linkedin.com/in/karthikeyabanala/
-- Portfolio
+- Portfolio - https://karthikeya-portfolio-topaz.vercel.app/
 - Email - karthikeyabanala9@gmail.com
